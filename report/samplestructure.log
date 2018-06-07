@@ -1,0 +1,162 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 OCT 2017 06:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**samplestructure.tex
+(./samplestructure.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2015/07/13 v61 Package minitoc
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 61 ***.
+\tf@mtc=\write3
+\mtcindent=\skip43
+\mtcskipamount=\skip44
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks14
+\mtc@strutbox=\box26
+\mtc@hstrutbox=\box27
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `samplestructure.mtc0'.
+
+\openout3 = `samplestructure.mtc'.
+
+
+(./samplestructure.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `samplestructure.mtc'.
+
+\openout3 = `samplestructure.mtc0'.
+
+\c@mtc=\count88
+\c@minitocdepth=\count89
+\c@ptc=\count90
+\c@parttocdepth=\count91
+\ptcindent=\skip45
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4909.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+))
+(./samplestructure.aux)
+\openout1 = `samplestructure.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM samplestructure.toc on input line
+ 8.
+ (./samplestructure.toc)
+\tf@toc=\write4
+\openout4 = `samplestructure.toc'.
+
+Package minitoc Info: I0034
+(minitoc)             PREPARING MINILOFS FROM samplestructure.lof on input line
+ 11.
+ [1
+
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] (./samplestructure.lof)
+\tf@lof=\write5
+\openout5 = `samplestructure.lof'.
+
+Package minitoc Info: I0037
+(minitoc)             PREPARING MINILOTS FROM samplestructure.lot on input line
+ 14.
+ [3]
+[4
+
+] (./samplestructure.lot)
+\tf@lot=\write6
+\openout6 = `samplestructure.lot'.
+
+ [5] [6
+
+]
+Chapter 1.
+Missing character: There is no Ã in font cmbx12!
+Missing character: There is no ª in font cmbx12!
+Missing character: There is no Æ in font cmbx12!
+Missing character: There is no ° in font cmbx12!
+Missing character: There is no Æ in font cmbx12!
+Missing character: There is no ¡ in font cmbx12!
+Package minitoc Info: I0006
+(minitoc)             samplestructure.mtc1 is empty on input line 18.
+Package minitoc Info: I0006
+(minitoc)             samplestructure.mlf1 is empty on input line 19.
+Package minitoc Info: I0006
+(minitoc)             samplestructure.mlt1 is empty on input line 20.
+Missing character: There is no Ã in font cmbx12!
+Missing character: There is no ª in font cmbx12!
+Missing character: There is no á in font cmbx12!
+Missing character: There is no » in font cmbx12!
+Missing character: There is no ¥ in font cmbx12!
+)
+! Emergency stop.
+<*> samplestructure.tex
+                       
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 1779 strings out of 493014
+ 23685 string characters out of 6133351
+ 99063 words of memory out of 5000000
+ 5186 multiletter control sequences out of 15000+600000
+ 5810 words of font info for 21 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,4n,18p,151b,143s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

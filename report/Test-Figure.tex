@@ -1,0 +1,74 @@
+\documentclass[11pt,a4paper,twoside,openany]{book}
+
+
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+\usepackage[demo]{graphicx}
+
+% privides the H option
+\usepackage{float}
+
+% produces random text for testing
+\usepackage{blindtext}
+
+% Parameters for floating objects in LaTeX
+% An overview can be found in the book
+% The Latex Companions Chapter 6.1
+% A good start is
+% http://robjhyndman.com/researchtips/latex-floats/
+
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\bottomfraction}{0.85}
+\renewcommand{\textfraction}{0.15}
+\renewcommand{\floatpagefraction}{0.8}
+\renewcommand{\textfraction}{0.1}
+\setlength{\floatsep}{5pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{5pt plus 2pt minus 2pt}
+\setlength{\intextsep}{5pt plus 2pt minus 2pt}
+
+\begin{document}
+
+\chapter{Test}
+
+\blindtext[2]
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\textwidth,height=50mm]{}
+\caption{Test Test Test}
+\end{figure}
+
+\section{Test}
+
+\blindtext[2]
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\textwidth,height=50mm]{}
+\caption{Test Test Test}
+\end{figure}
+
+\blindtext[2]
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\textwidth,height=50mm]{}
+\caption{Test Test Test}
+\end{figure}
+
+\section{Test}
+
+\blindtext[2]
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\textwidth,height=50mm]{}
+\caption{Test Test Test}
+\end{figure}
+
+\blindtext[2]
+
+\end{document}

@@ -1,0 +1,53 @@
+\select@language {vietnam}
+\contentsline {chapter}{L\IeC {\`\OHORN }I C\IeC {\h A}M \IeC {\OHORN }N}{i}{chapter*.3}
+\contentsline {chapter}{T\IeC {\'O}M T\IeC {\'\ABREVE }T LU\IeC {\d \ACIRCUMFLEX }N V\IeC {\u A}N}{ii}{chapter*.4}
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.5}
+\contentsline {chapter}{L\IeC {\`\OHORN }I CAM \IeC {\DJ }OAN}{iv}{chapter*.6}
+\contentsline {chapter}{DANH M\IeC {\d U}C H\IeC {\`I}NH}{vii}{chapter*.7}
+\contentsline {chapter}{DANH M\IeC {\d U}C B\IeC {\h A}NG BI\IeC {\h \ECIRCUMFLEX }U}{viii}{chapter*.8}
+\contentsline {chapter}{B\IeC {\h A}NG THU\IeC {\d \ACIRCUMFLEX }T NG\IeC {\~\UHORN } ANH - VI\IeC {\d \ECIRCUMFLEX }T V\IeC {\`A} T\IeC {\`\UHORN } VI\IeC {\'\ECIRCUMFLEX }T T\IeC {\'\ABREVE }T}{ix}{chapter*.9}
+\contentsline {chapter}{\numberline {1}GI\IeC {\'\OHORN }I THI\IeC {\d \ECIRCUMFLEX }U \IeC {\DJ }\IeC {\`\ECIRCUMFLEX } T\IeC {\`A}I}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}L\IeC {\'Y} DO NGHI\IeC {\^E}N C\IeC {\'\UHORN }U}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}M\IeC {\d U}C \IeC {\DJ }\IeC {\'I}CH NGHI\IeC {\^E}N C\IeC {\'\UHORN }U}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}\IeC {\'Y} NGH\IeC {\~I}A \IeC {\DJ }\IeC {\`\ECIRCUMFLEX } T\IeC {\`A}I}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}M\IeC {\^O} T\IeC {\h A} B\IeC {\`A}I TO\IeC {\'A}N}{2}{section.1.4}
+\contentsline {chapter}{\numberline {2}C\IeC {\OHORN } S\IeC {\h \OHORN } L\IeC {\'Y} THUY\IeC {\'\ECIRCUMFLEX }T}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}\IeC {\DJ }\IeC {\d \ABREVE }C \IeC {\DJ }I\IeC {\h \ECIRCUMFLEX }M C\IeC {\h U}A D\IeC {\~\UHORN } LI\IeC {\d \ECIRCUMFLEX }U CHU\IeC {\~\OCIRCUMFLEX }I TH\IeC {\`\OHORN }I GIAN}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Chu\IeC {\~\ocircumflex }i con}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Tr\IeC {\`u}ng kh\IeC {\'\ohorn }p}{4}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}\IeC {\DJ }\IeC {\d \OCIRCUMFLEX } \IeC {\DJ }O KHO\IeC {\h A}NG C\IeC {\'A}CH}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Kho\IeC {\h a}ng c\IeC {\'a}ch Euclid}{5}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}\IeC {\DJ }\IeC {\d \ocircumflex } \IeC {\dj }o xo\IeC {\'\abreve }n th\IeC {\`\ohorn }i gian \IeC {\dj }\IeC {\d \ocircumflex }ng (Dynamic Time Warping - DTW)}{5}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p t\IeC {\'\i }nh kho\IeC {\h a}ng c\IeC {\'a}ch DTW}{5}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}V\IeC {\'\i } d\IeC {\d u} t\IeC {\'\i }nh kho\IeC {\h a}ng c\IeC {\'a}ch DTW}{7}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}C\IeC {\'a}c k\IeC {\~y} thu\IeC {\d \acircumflex }t t\IeC {\'\ocircumflex }i \IeC {\uhorn }u ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p DTW}{9}{subsubsection.2.2.2.3}
+\contentsline {section}{\numberline {2.3}C\IeC {\'A}C PH\IeC {\UHORN }\IeC {\OHORN }NG PH\IeC {\'A}P PH\IeC {\^A}N L\IeC {\'\OHORN }P D\IeC {\~\UHORN } LI\IeC {\d \ECIRCUMFLEX }U CHU\IeC {\~\OCIRCUMFLEX }I TH\IeC {\`\OHORN }I GIAN}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t ph\IeC {\^a}n l\IeC {\'\ohorn }p k-l\IeC {\^a}n c\IeC {\d \acircumflex }n g\IeC {\`\acircumflex }n nh\IeC {\'\acircumflex }t (k-NN)}{11}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}C\IeC {\^a}y quy\IeC {\'\ecircumflex }t \IeC {\dj }\IeC {\d i}nh}{12}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}T\IeC {\h \OCIRCUMFLEX }NG QUAN C\IeC {\'A}C C\IeC {\^O}NG TR\IeC {\`I}NH LI\IeC {\^E}N QUAN}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}K\IeC {\~Y} THU\IeC {\d \ACIRCUMFLEX }T THU G\IeC {\d O}N S\IeC {\'\OCIRCUMFLEX } PH\IeC {\`\ACIRCUMFLEX }N T\IeC {\h \UHORN } T\IeC {\d \ACIRCUMFLEX }P HU\IeC {\'\ACIRCUMFLEX }N LUY\IeC {\d \ECIRCUMFLEX }N NA\IeC {\"I}VE RANK}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}PH\IeC {\UHORN }\IeC {\OHORN }NG PH\IeC {\'A}P THU G\IeC {\d O}N T\IeC {\d \ACIRCUMFLEX }P HU\IeC {\'\ACIRCUMFLEX }N LUY\IeC {\d \ECIRCUMFLEX }N INSIGHT}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}H\IeC {\`a}m t\IeC {\'\i }nh tr\IeC {\d o}ng s\IeC {\'\ocircumflex }}{15}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Thu\IeC {\d \ocircumflex }c t\IeC {\'\i }nh trung t\IeC {\^a}m}{15}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}H\IeC {\`a}m t\IeC {\'\i }nh tr\IeC {\d o}ng s\IeC {\'\ocircumflex } d\IeC {\d \uhorn }a tr\IeC {\^e}n thu\IeC {\d \ocircumflex }c t\IeC {\'\i }nh trung t\IeC {\^a}m}{16}{subsubsection.3.2.1.2}
+\contentsline {section}{\numberline {3.3}PH\IeC {\^A}N L\IeC {\'\OHORN }P k-NN HI\IeC {\d \ECIRCUMFLEX }U QU\IeC {\h A} V\IeC {\'\OHORN }I K\IeC {\~Y} THU\IeC {\d \ACIRCUMFLEX }T G\IeC {\d O}N D\IeC {\~\UHORN } LI\IeC {\d \ECIRCUMFLEX }U D\IeC {\d \UHORN }A V\IeC {\`A}O GOM C\IeC {\d U}M PHI THAM S\IeC {\'\OCIRCUMFLEX }}{17}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Thu g\IeC {\d o}n d\IeC {\d \uhorn }a v\IeC {\`a}o gom c\IeC {\d u}m (RHC)}{17}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}RHC \IeC {\dj }\IeC {\d \ocircumflex }ng (dRHC)}{19}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}\IeC {\'A}P D\IeC {\d U}NG C\IeC {\'A}C GI\IeC {\h A}I THU\IeC {\d \ACIRCUMFLEX }T L\IeC {\d \UHORN }A CH\IeC {\d O}N \IeC {\DJ }\IeC {\d A}I DI\IeC {\d \ECIRCUMFLEX }N V\IeC {\`A} TR\IeC {\'I}CH Y\IeC {\'\ECIRCUMFLEX }U \IeC {\DJ }\IeC {\d A}I DI\IeC {\d \ECIRCUMFLEX }N \IeC {\DJ }\IeC {\h \ECIRCUMFLEX } PH\IeC {\^A}N L\IeC {\'\OHORN }P D\IeC {\~\UHORN } LI\IeC {\d \ECIRCUMFLEX }U CHU\IeC {\~\OCIRCUMFLEX }I TH\IeC {\`\OHORN }I GIAN HI\IeC {\d \ECIRCUMFLEX }U QU\IeC {\h A}}{23}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}C\IeC {\'a}c gi\IeC {\h a}i thu\IeC {\d \acircumflex }t l\IeC {\d \uhorn }a ch\IeC {\d o}n \IeC {\dj }\IeC {\d a}i di\IeC {\d \ecircumflex }n (Prototype Selection Algorithms)}{23}{subsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.1.1}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t CNN-rule}{23}{subsubsection.3.4.1.1}
+\contentsline {subsubsection}{\numberline {3.4.1.2}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t IB2}{24}{subsubsection.3.4.1.2}
+\contentsline {subsection}{\numberline {3.4.2}C\IeC {\'a}c gi\IeC {\h a}i thu\IeC {\d \acircumflex }t tr\IeC {\'\i }ch y\IeC {\'\ecircumflex }u \IeC {\dj }\IeC {\d a}i di\IeC {\d \ecircumflex }n (Prototype Abstraction Algorithms)}{25}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t tr\IeC {\'\i }ch y\IeC {\'\ecircumflex }u IB2 (AIB2)}{25}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t CJA}{26}{subsubsection.3.4.2.2}
+\contentsline {chapter}{\numberline {4}GI\IeC {\h A}I PH\IeC {\'A}P TH\IeC {\d \UHORN }C HI\IeC {\d \ECIRCUMFLEX }N}{28}{chapter.4}
+\contentsline {chapter}{\numberline {5}K\IeC {\'\ECIRCUMFLEX }T QU\IeC {\h A} TH\IeC {\d \UHORN }C NGHI\IeC {\d \ECIRCUMFLEX }M}{29}{chapter.5}
+\contentsline {section}{\numberline {5.1}M\IeC {\^O}I TR\IeC {\UHORN }\IeC {\`\OHORN }NG TH\IeC {\d \UHORN }C NGHI\IeC {\d \ECIRCUMFLEX }M}{29}{section.5.1}
+\contentsline {section}{\numberline {5.2}PH\IeC {\UHORN }\IeC {\OHORN }NG PH\IeC {\'A}P TH\IeC {\d \UHORN }C NGHI\IeC {\d \ECIRCUMFLEX }M}{29}{section.5.2}
+\contentsline {section}{\numberline {5.3}D\IeC {\~\UHORN } LI\IeC {\d \ECIRCUMFLEX }U TH\IeC {\d \UHORN }C NGHI\IeC {\d \ECIRCUMFLEX }M}{29}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}B\IeC {\d \ocircumflex } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u ArrowHead}{30}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}B\IeC {\d \ocircumflex } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u BeetleFly}{32}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}B\IeC {\d \ocircumflex } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u Gun Point}{32}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}B\IeC {\d \ocircumflex } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u Fish}{33}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}B\IeC {\d \ocircumflex } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u Trace}{34}{subsection.5.3.5}
+\contentsline {section}{\numberline {5.4}TH\IeC {\d \UHORN }C NGHI\IeC {\d \ECIRCUMFLEX }M SO S\IeC {\'A}NH \IeC {\DJ }\IeC {\d \OCIRCUMFLEX } CH\IeC {\'I}NH X\IeC {\'A}C PH\IeC {\^A}N L\IeC {\'\OHORN }P TR\IeC {\UHORN }\IeC {\'\OHORN }C V\IeC {\`A} SAU KHI THU G\IeC {\d O}N T\IeC {\d \ACIRCUMFLEX }P HU\IeC {\'\ACIRCUMFLEX }N LUY\IeC {\d \ECIRCUMFLEX }N}{35}{section.5.4}

@@ -1,0 +1,74 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{fourier} 
+\usepackage{array}
+\usepackage{makecell}
+
+\renewcommand\theadalign{cb}
+\renewcommand\theadfont{\bfseries}
+\renewcommand\theadgape{\Gape[4pt]}
+\renewcommand\cellgape{\Gape[4pt]}
+
+\usepackage{algpseudocode,algorithm,algorithmicx}
+
+\newcommand*\Let[2]{\State #1 $\gets$ #2}
+\algrenewcommand\algorithmicrequire{\textbf{Precondition:}}
+\algrenewcommand\algorithmicensure{\textbf{Postcondition:}}
+
+\begin{document}
+
+\begin{center}
+\begin{tabular}{ | c | c | c |}
+\hline
+\thead{A Head} & \thead{A Second \\ Head} & \thead{A Third \\ Head} \\
+\hline
+Some text &  \makecell[l]{Some really really really\\ longer text}  & Text text text  \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{algorithm}
+  \caption{Counting mismatches between two packed DNA strings
+    \label{alg:packed-dna-hamming}}
+  \begin{algorithmic}[1]
+    \Require{$x$ and $y$ are packed DNA strings of equal length $n$}
+    \Statex
+    \Function{Distance}{$x, y$}
+      \Let{$z$}{$x \oplus y$} \Comment{$\oplus$: bitwise exclusive-or}
+      \Let{$\delta$}{$0$}
+      \For{$i \gets 1 \textrm{ to } n$}
+        \If{$z_i \neq 0$}
+          \Let{$\delta$}{$\delta + 1$}
+        \EndIf
+      \EndFor
+      \State \Return{$\delta$}
+    \EndFunction
+  \end{algorithmic}
+\end{algorithm}
+
+
+\begin{algorithm}
+  \caption{Counting mismatches between two packed DNA strings
+   \label{alg:rhc}}
+    \textbf{Input} \\
+    \textbf{Output} 
+  \begin{algorithmic}[1]
+
+    \Statex
+      \Let{$z$}{$x \oplus y$} \Comment{$\oplus$: bitwise exclusive-or}
+      \Let{$\delta$}{$0$}
+      \\{Some question}
+      \For{$i \gets 1 \textrm{ to } n$}
+        \If{$z_i \neq 0$}
+          \Let{$\delta$}{$\delta + 1$}
+        \EndIf
+      \EndFor
+      \For
+      
+      \Comment{Say hello}
+      \EndFor
+      \State \Return{$\delta$}
+  \end{algorithmic}
+\end{algorithm}
+
+\end{document} 
